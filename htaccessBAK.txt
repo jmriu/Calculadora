@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^apps/Calculadora/index.php$ apps/Calculadora/views/calcView.php [L,R=301]
+RewriteRule ^apps/Calculadora/$ apps/Calculadora/views/calcView.php [L,R=301]
+
