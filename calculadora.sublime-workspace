@@ -1,0 +1,823 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"consulta"
+			],
+			[
+				"getva",
+				"getvalue1"
+			],
+			[
+				"Cal",
+				"calc"
+			],
+			[
+				"su",
+				"subtract"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"setv",
+				"setvalue1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "db/db.php",
+			"settings":
+			{
+				"buffer_size": 462,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/calcController.php",
+			"settings":
+			{
+				"buffer_size": 195,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "models/calcModel.php",
+			"settings":
+			{
+				"buffer_size": 1959,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/calcView.php",
+			"settings":
+			{
+				"buffer_size": 1057,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/calcOperation.php",
+			"settings":
+			{
+				"buffer_size": 2491,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Context",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "|+| \"$a\"\n|+| \"$suma\"\n",
+			"settings":
+			{
+				"buffer_size": 21,
+				"line_ending": "Windows",
+				"name": "Xdebug Watch",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Stack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "=> C:\\dev\\html\\Calculadora\\controllers\\calcOperation.php\n\t|+| 95\n=> C:\\dev\\html\\Calculadora\\models\\calcModel.php\n\t|+| 19\n=> C:\\dev\\html\\trackstar\\protected\\views\\project\\view.php\n\t|+| 17\n=> C:\\xampp\\htdocs\\helloworld\\index.php\n\t|+| 8\n=> C:\\xampp\\htdocs\\helloworld\\index2.php\n\t|+| 15\n\t|+| 17\n",
+			"settings":
+			{
+				"buffer_size": 291,
+				"line_ending": "Windows",
+				"name": "Xdebug Breakpoint",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git anno",
+				"Git: Toggle Annotations"
+			],
+			[
+				"git",
+				"Git: Toggle Annotations"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/html/Calculadora",
+		"/C/dev/html/Calculadora/controllers",
+		"/C/dev/html/Calculadora/db",
+		"/C/dev/html/Calculadora/models",
+		"/C/dev/html/Calculadora/views"
+	],
+	"file_history":
+	[
+		"/C/dev/html/Calculadora/models/calcModel.php",
+		"/C/dev/html/Calculadora/controllers/calcOperation.php",
+		"/C/dev/html/Calculadora/controllers/calcController.php",
+		"/C/dev/html/Calculadora/views/calcView.php",
+		"/C/dev/html/Calculadora/db/db.php",
+		"/C/dev/html/Calculadora/index.php",
+		"/C/dev/html/trackstar/protected/models/LoginForm.php",
+		"/C/dev/html/Calculadora/index2.php",
+		"/C/dev/html/Calculadora/Nuevo documento de texto.txt",
+		"/C/dev/html/pruebas/index.php",
+		"/C/dev/html/trackstar/protected/views/project/index.php",
+		"/C/dev/html/trackstar/protected/controllers/ProjectController.php",
+		"/C/dev/html/trackstar/protected/modules/admin/views/layouts/main.php",
+		"/C/dev/html/trackstar/protected/controllers/SiteController.php",
+		"/C/dev/html/trackstar/index.php",
+		"/C/dev/html/trackstar/protected/config/main.php",
+		"/C/dev/html/trackstar/protected/modules/admin/views/layouts/column2.php",
+		"/C/dev/html/trackstar/protected/models/SysMessage.php",
+		"/C/dev/html/trackstar/protected/controllers/admin/SysMessageController.php",
+		"/C/dev/html/trackstar/protected/views/admin/sysMessage/_form.php",
+		"/C/dev/html/trackstar/protected/modules/admin/models/SysMessage.php",
+		"/C/dev/html/trackstar/themes/newtheme/css/main.css",
+		"/C/dev/html/trackstar/protected/views/site/error.php",
+		"/C/dev/html/trackstar/protected/runtime/infoMessages.log",
+		"/C/dev/html/trackstar/protected/views/site/index.php",
+		"/C/dev/html/trackstar/protected/modules/admin/AdminModule.php",
+		"/C/dev/html/trackstar/themes/newtheme/views/layouts/main.php",
+		"/C/dev/html/trackstar/protected/components/UserIdentity.php",
+		"/C/dev/html/trackstar/protected/modules/admin/views/layouts/column1.php",
+		"/C/dev/html/trackstar/protected/commands/RbacCommand.php",
+		"/C/dev/html/trackstar/protected/migrations/m181011_104632_create_system_messages_table.php",
+		"/C/dev/html/trackstar/protected/messages/cat/default.php",
+		"/C/dev/html/trackstar/protected/views/site/cat/login.php",
+		"/C/dev/html/imc/index.php",
+		"/C/dev/html/trackstar/protected/components/Controller.php",
+		"/C/dev/html/trackstar/protected/views/site/rev/login.php",
+		"/C/dev/html/trackstar/protected/views/layouts/main.php",
+		"/C/dev/yii/framework/i18n/data/es_es.php",
+		"/C/dev/html/trackstar/protected/views/project/view.php",
+		"/C/dev/html/trackstar/protected/controllers/IssueController.php",
+		"/C/dev/html/trackstar/protected/components/RecentComments.php",
+		"/C/dev/html/trackstar/protected/components/view/recentCommentsWidget.php",
+		"/C/dev/html/trackstar/protected/controllers/CommentController.php",
+		"/C/dev/html/trackstar/protected/views/project/adduser.php",
+		"/C/dev/html/trackstar/protected/views/layouts/column1.php",
+		"/C/dev/html/trackstar/protected/models/Comment.php",
+		"/C/dev/html/trackstar/protected/views/comment/_form.php",
+		"/C/dev/html/trackstar/protected/views/issue/view.php",
+		"/C/dev/html/trackstar/protected/views/issue/_comments.php",
+		"/C/dev/html/trackstar/protected/models/Issue.php",
+		"/C/dev/html/trackstar/protected/views/layouts/column2.php",
+		"/C/dev/html/trackstar/protected/views/layouts/newlayout.php",
+		"/C/dev/html/trackstar/protected/components/RecentComments/RecentComments.php",
+		"/C/dev/html/trackstar/protected/migrations/m181010_075720_create_user_comments_table.php",
+		"/C/dev/html/trackstar/protected/controllers/UserController.php",
+		"/C/dev/html/trackstar/protected/models/User.php",
+		"/C/dev/html/trackstar/protected/models/ProjectUserForm.php",
+		"/C/dev/html/trackstar/protected/models/Project.php",
+		"/C/dev/html/trackstar/protected/views/user/_form.php",
+		"/C/dev/html/trackstar/protected/config/console.php",
+		"/C/dev/html/trackstar/protected/models/TrackStarActiveRecord.php",
+		"/C/dev/html/trackstar/protected/migrations/m181009_095856_create_rbac_tables.php",
+		"/C/dev/html/trackstar/protected/migrations/m181009_103928_add_role_to_tbl_project_user_assignment.php",
+		"/C/xampp/htdocs/helloworld/index2.php",
+		"/C/dev/html/trackstar/protected/models/ContactForm.php",
+		"/C/dev/html/trackstar/protected/views/issue/_form.php",
+		"/C/xampp/htdocs/helloworld/index.php",
+		"/C/xampp/htdocs/helloworld/testXdebug.sublime-project",
+		"/C/Users/jmriu/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/xampp/htdocs/helloworld/index2",
+		"/C/dev/html/trackstar/protected/views/issue/_view.php",
+		"/C/dev/html/trackstar/protected/views/issue/index.php",
+		"/C/dev/html/trackstar/protected/views/issue/admin.php",
+		"/C/dev/html/trackstar/protected/migrations/m181005_065512_create_issue_user_and_assignment_tables2.php",
+		"/C/dev/html/trackstar/protected/migrations/m181005_064048_create_issue_user_and_assignment_tables.php",
+		"/C/xampp/htdocs/trackstar/protected/config/database.php",
+		"/C/dev/html/trackstar/protected/tests/unit/DbTest.php",
+		"/C/dev/html/trackstar/protected/config/database.php",
+		"/C/dev/html/trackstar/protected/migrations/m181004_135407_create_proyect_table.php",
+		"/C/dev/html/trackstar/protected/config/test.php",
+		"/C/xampp/htdocs/trackstar/protected/config/console.php",
+		"/C/dev/html/trackstar/protected/tests/unit/MessageControllerTest.php",
+		"/C/xampp/htdocs/trackstar/protected/config/main.php",
+		"/C/xampp/htdocs/helloworld/protected/views/message/goodbye.php",
+		"/C/xampp/htdocs/helloworld/protected/views/message/hello.php",
+		"/C/xampp/htdocs/helloworld/protected/controllers/MessageController.php",
+		"/C/xampp/htdocs/trackstar/protected/tests/unit/BdTest.php",
+		"/C/xampp/htdocs/trackstar/protected/data/testdrive.db",
+		"/C/xampp/htdocs/yii/framework/yiic.php",
+		"/C/xampp/htdocs/yii/framework/yiic",
+		"/C/xampp/htdocs/helloworld/protected/views/layouts/main.php",
+		"/C/xampp/htdocs/helloworld/protected/views/layouts/column2.php",
+		"/C/xampp/htdocs/helloworld/protected/views/layouts/column1.php",
+		"/C/xampp/htdocs/helloworld/protected/config/main.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/dev/git/prueba3/imc/index.php",
+		"/C/Users/jmriu/Desktop/hosts"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"numero2",
+			"numero1",
+			"createtas",
+			"layout",
+			"checkacces",
+			"accessRules",
+			"AuthAssignment",
+			"hashPassword",
+			"connectionString'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"value2",
+			"value1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "db/db.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								441,
+								250
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "controllers/calcController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "models/calcModel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1909,
+								1909
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 99.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/calcView.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1036,
+								1036
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "controllers/calcOperation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 858.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\dev\\html\\Calculadora\\views",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\dev\\html\\Calculadora\\views",
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\dev\\html\\Calculadora\\views",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								291
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\dev\\html\\Calculadora\\views",
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.882503770739,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "calculadora.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Xdebug Breakpoint"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"24":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"25":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"26":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"27":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"28":
+				{
+					"group": 0,
+					"index": 4
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 124.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
